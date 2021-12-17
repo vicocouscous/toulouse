@@ -1,0 +1,114 @@
+body{
+/*    overflow: scroll;*/
+    overflow: auto;
+/*    background-image: url("https://img.static-af.com/images/meta/IDname/CITY-MPL-1?aspect_ratio=2:1&max_width=1920");*/
+    background-repeat: no-repeat;
+    background-color: rgb(41, 83, 207);
+}
+.jl{
+    color: seashell;
+}
+.big{
+    padding: 20px 500px;
+}
+.big-title{
+    color: white;
+    font-size: 200px;
+    font-family:'muller';
+    font-weight: 100;
+    width: 100%;
+}
+
+
+
+
+.right{
+    color: rgb(255, 255, 255);
+}
+.right:hover{
+    color: steelblue;
+}
+
+
+.valeurs {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.valeur-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.delivery-icon {
+    font-size: 50px;
+    color: #5FA7D9;
+}
+
+.txt-val {
+    font-weight: 600;
+    width: 200px;
+    text-align: center;
+}
+section.top-page {
+    background: url("https://www.gl-events.com/sites/glevents2022/files/styles/hero_background_image/public/2018-12/Photo%20Toulouse%20-%20credit%20Toulouse%20Ev%C3%A9nements_1.jpg?itok=c_Qzwatu");
+    background-size: cover;
+    height: 90vh;
+    padding: 40px;
+}
+
+/*
+.atout {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    color:rgb(0, 0, 0)
+}
+.valeur-item {
+    color: white;
+}
+*/
+
+
+p {
+    font-size: 15px;
+}
+
+h2{
+    color: white;
+
+}
+
+
+
+
+.atout {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+.valeur-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.frt {
+    font-size: 50px;
+    color: #5FA7D9;
+}
+.frg{
+        color: rgb(255, 255, 255);
+ }
+.frg:hover{
+        color:violet;
+    }
+
+.section-title {
+    font-size: 50px;
+    font-family: 'arial' ;
+    font-weight: 100;
+    position: relative;
+}
